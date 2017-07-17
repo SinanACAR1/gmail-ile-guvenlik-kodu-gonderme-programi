@@ -1,0 +1,15 @@
+C:\Users\arcelik\Documents\Visual Studio 2010\Projects\e-maile kod koderme\e-maile kod koderme\bin\Debug\e-maile kod koderme.exe
+C:\Users\arcelik\Documents\Visual Studio 2010\Projects\e-maile kod koderme\e-maile kod koderme\bin\Debug\e-maile kod koderme.pdb
+C:\Users\arcelik\Documents\Visual Studio 2010\Projects\e-maile kod koderme\e-maile kod koderme\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\arcelik\Documents\Visual Studio 2010\Projects\e-maile kod koderme\e-maile kod koderme\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\arcelik\Documents\Visual Studio 2010\Projects\e-maile kod koderme\e-maile kod koderme\obj\x86\Debug\e-maile kod koderme.csproj.GenerateResource.Cache
+C:\Users\arcelik\Documents\Visual Studio 2010\Projects\e-maile kod koderme\e-maile kod koderme\obj\x86\Debug\e-maile kod koderme.exe
+C:\Users\arcelik\Documents\Visual Studio 2010\Projects\e-maile kod koderme\e-maile kod koderme\obj\x86\Debug\e-maile kod koderme.pdb
+F:\Sinan Güvenli Klasor\sinan acar\Programlar\e-maile kod koderme\e-maile kod koderme\obj\x86\Debug\e-maile kod koderme.exe
+F:\Sinan Güvenli Klasor\sinan acar\Programlar\e-maile kod koderme\e-maile kod koderme\obj\x86\Debug\e-maile kod koderme.pdb
+F:\Sinan Güvenli Klasor\sinan acar\Programlar\e-maile kod koderme\e-maile kod koderme\bin\Debug\e-maile kod koderme.exe
+F:\Sinan Güvenli Klasor\sinan acar\Programlar\e-maile kod koderme\e-maile kod koderme\bin\Debug\e-maile kod koderme.pdb
+F:\Sinan Güvenli Klasor\sinan acar\Programlar\e-maile kod koderme\e-maile kod koderme\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+F:\Sinan Güvenli Klasor\sinan acar\Programlar\e-maile kod koderme\e-maile kod koderme\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+F:\Sinan Güvenli Klasor\sinan acar\Programlar\e-maile kod koderme\e-maile kod koderme\obj\x86\Debug\e-maile kod koderme.csproj.GenerateResource.Cache
+F:\Sinan Güvenli Klasor\sinan acar\Programlar\e-maile kod koderme\e-maile kod koderme\obj\x86\Debug\e-maile kod koderme.csprojResolveAssemblyReference.cache
